@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sport/static/css/main.fc4ea939.chunk.css",
+    "main.js": "/sport/static/js/main.783ae6f8.chunk.js",
+    "main.js.map": "/sport/static/js/main.783ae6f8.chunk.js.map",
+    "runtime-main.js": "/sport/static/js/runtime-main.a7901341.js",
+    "runtime-main.js.map": "/sport/static/js/runtime-main.a7901341.js.map",
+    "static/css/2.33195961.chunk.css": "/sport/static/css/2.33195961.chunk.css",
+    "static/js/2.4c5379eb.chunk.js": "/sport/static/js/2.4c5379eb.chunk.js",
+    "static/js/2.4c5379eb.chunk.js.map": "/sport/static/js/2.4c5379eb.chunk.js.map",
+    "index.html": "/sport/index.html",
+    "precache-manifest.7a41f76a71fd807258e6a0f91ce63e86.js": "/sport/precache-manifest.7a41f76a71fd807258e6a0f91ce63e86.js",
+    "service-worker.js": "/sport/service-worker.js",
+    "static/css/2.33195961.chunk.css.map": "/sport/static/css/2.33195961.chunk.css.map",
+    "static/css/main.fc4ea939.chunk.css.map": "/sport/static/css/main.fc4ea939.chunk.css.map",
+    "static/js/2.4c5379eb.chunk.js.LICENSE.txt": "/sport/static/js/2.4c5379eb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/sport/static/media/Questrial-Regular.37c8a1aa.ttf",
+    "static/media/logos2.png": "/sport/static/media/logos2.8593e511.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7901341.js",
+    "static/css/2.33195961.chunk.css",
+    "static/js/2.4c5379eb.chunk.js",
+    "static/css/main.fc4ea939.chunk.css",
+    "static/js/main.783ae6f8.chunk.js"
+  ]
+}
