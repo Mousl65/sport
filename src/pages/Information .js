@@ -56,6 +56,8 @@ const Information  = () => {
            
            </div>
         </div>
+        <br></br><br></br>
+        <br></br>
         <h2>Localisation</h2>
 
         <ButtonsBottom left={'info'} right={'/project-1'}  />

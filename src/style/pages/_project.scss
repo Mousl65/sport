@@ -21,7 +21,7 @@
     }
     @media screen and (max-width: 430px){
       // display: none;
-      left : -500px;
+      left : -400px;
     }
   }
 
@@ -34,7 +34,7 @@
     animation: navProject 1s ease forwards;
 
     @media screen and (max-width: 650px){
-      left: 70%;
+      left: 60%;
     }
   
     @keyframes navProject {
@@ -124,8 +124,8 @@
         @media screen and (max-width: 700px){
           margin: 0;
         }
-        @media screen and (max-width: 450px){
-          font-size: .9rem;
+        @media screen and (max-width: 440px){
+          font-size: .4rem;
         }
         
         &:after {
@@ -153,7 +153,7 @@
           font-size: 1.1rem;
         }
         @media screen and (max-width: 400px){
-          font-size: .8rem;
+          font-size: .6rem;
         }
       }
     }
@@ -279,9 +279,7 @@
 }
 
 .logos2{
-  margin-top: 10px;
+  margin-top: 20px;
+  
  
-  @media screen and (max-width: 630px){
-     margin-left: -200px;
-  }
 }

@@ -46,6 +46,7 @@
 
   .contact-form {
     margin: 7% 0 0 24%;
+    margin-top: 50px;
     max-width: 50%;
     position: relative;
     max-width: 350px;
@@ -225,6 +226,7 @@
       }
     }
     p {
+      
       @media screen and (min-width: 1200px){
         font-size: 1.5rem;
       }
