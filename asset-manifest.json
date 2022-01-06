@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/club/static/css/main.c04b0726.chunk.css",
-    "main.js": "/club/static/js/main.463c9656.chunk.js",
-    "main.js.map": "/club/static/js/main.463c9656.chunk.js.map",
-    "runtime-main.js": "/club/static/js/runtime-main.2bf67784.js",
-    "runtime-main.js.map": "/club/static/js/runtime-main.2bf67784.js.map",
-    "static/css/2.33195961.chunk.css": "/club/static/css/2.33195961.chunk.css",
-    "static/js/2.4c5379eb.chunk.js": "/club/static/js/2.4c5379eb.chunk.js",
-    "static/js/2.4c5379eb.chunk.js.map": "/club/static/js/2.4c5379eb.chunk.js.map",
-    "index.html": "/club/index.html",
-    "precache-manifest.36780c93c9b06efc744e1704af338914.js": "/club/precache-manifest.36780c93c9b06efc744e1704af338914.js",
-    "service-worker.js": "/club/service-worker.js",
-    "static/css/2.33195961.chunk.css.map": "/club/static/css/2.33195961.chunk.css.map",
-    "static/css/main.c04b0726.chunk.css.map": "/club/static/css/main.c04b0726.chunk.css.map",
-    "static/js/2.4c5379eb.chunk.js.LICENSE.txt": "/club/static/js/2.4c5379eb.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/club/static/media/Questrial-Regular.37c8a1aa.ttf",
-    "static/media/logos2.png": "/club/static/media/logos2.8593e511.png"
+    "main.css": "/sport/static/css/main.288ecf4c.chunk.css",
+    "main.js": "/sport/static/js/main.463c9656.chunk.js",
+    "main.js.map": "/sport/static/js/main.463c9656.chunk.js.map",
+    "runtime-main.js": "/sport/static/js/runtime-main.a7901341.js",
+    "runtime-main.js.map": "/sport/static/js/runtime-main.a7901341.js.map",
+    "static/css/2.33195961.chunk.css": "/sport/static/css/2.33195961.chunk.css",
+    "static/js/2.4c5379eb.chunk.js": "/sport/static/js/2.4c5379eb.chunk.js",
+    "static/js/2.4c5379eb.chunk.js.map": "/sport/static/js/2.4c5379eb.chunk.js.map",
+    "index.html": "/sport/index.html",
+    "precache-manifest.adfc0a7e223cfde4fdd4f0325ddf3053.js": "/sport/precache-manifest.adfc0a7e223cfde4fdd4f0325ddf3053.js",
+    "service-worker.js": "/sport/service-worker.js",
+    "static/css/2.33195961.chunk.css.map": "/sport/static/css/2.33195961.chunk.css.map",
+    "static/css/main.288ecf4c.chunk.css.map": "/sport/static/css/main.288ecf4c.chunk.css.map",
+    "static/js/2.4c5379eb.chunk.js.LICENSE.txt": "/sport/static/js/2.4c5379eb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/sport/static/media/Questrial-Regular.37c8a1aa.ttf",
+    "static/media/logos2.png": "/sport/static/media/logos2.8593e511.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bf67784.js",
+    "static/js/runtime-main.a7901341.js",
     "static/css/2.33195961.chunk.css",
     "static/js/2.4c5379eb.chunk.js",
-    "static/css/main.c04b0726.chunk.css",
+    "static/css/main.288ecf4c.chunk.css",
     "static/js/main.463c9656.chunk.js"
   ]
 }
